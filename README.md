@@ -12,3 +12,6 @@ Aqui iremos realizar a inserção de qualquer coisa apenas para poder testar a c
 Nesta seção iremos falar acerca de más práticas de desenvolvimento, sendo uma delas, realizar merges localmente na branch principal.
 
 
+## Stashs - Criação e Manipulação
+
+Nesta seção iremos trabalhar com stashs.
