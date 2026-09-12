@@ -14,4 +14,4 @@ Nesta seção iremos falar acerca de más práticas de desenvolvimento, sendo um
 
 ## Stashs - Criação e Manipulação
 
-Nesta seção iremos trabalhar com stashs.
+Nesta seção iremos trabalhar com stashs. A abordagem mais utilizada e recomendada para o uso das stashs, são quando preciso realizar uma mudança na minha abordagem de desenvolvimento, porém, não queria perder o código ou a solçução completamente. Então salvamos utilizando as stashs, fazeno alusão a quando apagamos não permanentemente um arquivo do nosso computador.
